@@ -1,4 +1,4 @@
-#Spiceworks - Show All Ticket Content
+# Spiceworks - Show All Ticket Content
 
 Current version is 2.1 @ 2017-03-01
 
